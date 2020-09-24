@@ -1,0 +1,13 @@
+---
+description: Driver for Invensense MPU9250 motion sensor
+fullname: lib.invensense.mpu9250
+info:
+    chip_manufacturer: Invensense
+    chip_name: MPU9250
+    name: Motion Sensor
+    type: Sensor
+keywords:
+- invensense
+- motion sensor
+title: MPU9250 Motion Sensor
+...
